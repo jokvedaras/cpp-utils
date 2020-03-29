@@ -1,0 +1,10 @@
+# ignore generated files
+*.exe
+*.o
+*.so
+*.a
+
+# ignore generated folders
+*/obj/
+*/lib/
+*/exe/
